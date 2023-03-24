@@ -9,6 +9,10 @@ This Python script analyzes the mood of a given text and returns a `Mood` object
 
 To install TextBlob, use the following command:
 
+```python
+pip install textblob
+```
+
 ## Usage
 
 Import the `get_mood` function and the `Mood` class from the module:
